@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (25-Oct-2014 BZR 4029)-stable date = Wed 06 May 2015 02:26:40 AM EDT
+
+BeginCmp
+TimeStamp = /55371BD6;
+Reference = BBB1;
+ValeurCmp = BBB;
+IdModule  = BBB;
+EndCmp
+
+BeginCmp
+TimeStamp = /554034BC;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55371C71;
+Reference = M1;
+ValeurCmp = MELZI;
+IdModule  = Melzi;
+EndCmp
+
+BeginCmp
+TimeStamp = /55371E14;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55405267;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55371C8C;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55371C99;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5549B2A8;
+Reference = U1;
+ValeurCmp = DCDC;
+IdModule  = DCDC;
+EndCmp
+
+EndListe

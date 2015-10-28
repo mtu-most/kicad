@@ -1,0 +1,29 @@
+metric=1
+mirror-absolute=1
+
+back=bbb-melzi-B_Cu.gbl
+front=bbb-melzi-F_Cu.gtl
+drill=bbb-melzi.drl
+
+# Used for all operations.
+zsafe=5
+
+# Milling.
+zwork=1 #-.08
+mill-feed=100
+mill-speed=1
+offset=.1
+
+# Drilling.
+zdrill=1 #-2
+zchange=5
+drill-feed=200
+drill-speed=1
+drill-front=1
+
+# Cutting.
+zcut=1
+cutter-diameter=1.5
+cut-feed=50
+cut-speed=1
+cut-infeed=10
